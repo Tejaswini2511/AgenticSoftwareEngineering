@@ -1,0 +1,6 @@
+@AgenticSoftwareEngineering_HostAddress = http://localhost:5241
+
+GET {{AgenticSoftwareEngineering_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
